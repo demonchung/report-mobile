@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>微笑_slightly-smiling-face</title>
+    <g id="数据分析" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="统计分析" transform="translate(-874.000000, -5444.000000)">
+            <g id="编组-17" transform="translate(58.000000, 5078.962646)">
+                <g id="编组-7备份" transform="translate(777.000000, 214.037354)">
+                    <g id="编组-8" transform="translate(20.000000, 130.000000)">
+                        <g id="微笑_slightly-smiling-face" transform="translate(19.333333, 21.333333)">
+                            <path d="M7.33333333,0 C11.3834232,0 14.6666667,3.2832435 14.6666667,7.33333333 C14.6666667,11.3834232 11.3834232,14.6666667 7.33333333,14.6666667 C3.2832435,14.6666667 0,11.3834232 0,7.33333333 C0,3.2832435 3.2832435,0 7.33333333,0 Z" id="形状结合" fill="#315EFB" fill-rule="nonzero"></path>
+                            <line x1="9.66666667" y1="5.33333333" x2="9.66666667" y2="5.66666667" id="路径" stroke="#FFFFFF" stroke-width="1.33333333" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="5" y1="5.33333333" x2="5" y2="5.66666667" id="路径" stroke="#FFFFFF" stroke-width="1.33333333" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <path d="M9.66666667,9.66666667 C9.66666667,9.66666667 9,11 7.33333333,11 C5.66666667,11 5,9.66666667 5,9.66666667" id="路径" stroke="#FFFFFF" stroke-width="1.33333333" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

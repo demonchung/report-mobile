@@ -1,0 +1,121 @@
+@import "~@h3/report-mobile/basics/styles/components.less";
+
+.h3-dialog-input {
+  background: #FFFFFF;
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column-reverse;
+  min-height: 46px;
+  justify-content: center;
+
+  &:focus, &:hover {
+    box-shadow: 0px 0px 0px 3px rgba(49,94,251,0.2), 0px 0px 0px 1px #315EFB;
+    // border: 1px solid #315EFB;
+  }
+  
+  // &__suggests {
+  //   background: linear-gradient(180deg, #F5FCFF 0%, #FAF6FF 100%);
+  //   border-radius: 18px;
+  //   display: none;
+  //   border: 1px solid #E6E9F5;
+  //   margin: 12px 12px 12px 16px;
+  //   padding: 12px;
+  //   &-title {
+  //   font-weight: bold;
+  //   font-size: 12px;
+  //   margin-bottom:  12px;
+  //   color: #111218;
+  //   }
+  //   &-item {
+  //   font-size: 13px;
+  //   color: #707481;
+  //   line-height: 22px;
+  //   word-wrap: break-word;
+  //   cursor: pointer;
+  // }
+// }
+
+  .ant-input {
+      border: none;
+      outline: none;
+      box-shadow: none;
+      line-height: 22px;
+      font-size: 13px;
+      color: #121933;
+      height: 32px;
+      resize: none;
+      padding: 4px 11px 4px 6px;
+      margin-left: 10px;
+      width: calc(100% - 10px);
+      border-radius: 14px 24px 0 0;
+  }
+  .ant-input:not(:focus) {
+    margin-right: 50px;
+    width: auto;
+    overflow: hidden;
+    border-radius: 25px;
+  }
+  .ant-input:active, .ant-input:focus {
+    height: 78px;
+    margin: 12px 0px 12px 10px;
+    padding: 0px 18px 0px 6px;
+    border-radius: 12px;
+    .vertical-scrollbar();
+    &::-webkit-scrollbar-track {
+        background-color: unset !important;
+    }
+  }
+  .ant-input:focus ~ .h3-dialog-input__suggests {
+    display: block;
+  }
+  .ant-input::placeholder {
+    color: #707481;
+    font-size: 13px;
+  }
+  &__suffix {
+    display: flex;
+    position: absolute;
+    bottom: 26px;
+    right: 30px;
+    align-items: center;
+    visibility: visible;
+    transition: opacity 0.5s ease-in-out;
+    pointer-events: auto;
+    cursor: pointer;
+  }
+
+  &__send {
+    width: 32px;
+    height: 32px;
+    background: rgba(49,94,251,0.5);
+    opacity: 0.5;
+    border-radius: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  &__send.filled {
+    opacity: 1;
+    background: #315EFB;
+  }
+
+  // &__clear {
+  //   margin-right: 12px;
+  //   display: flex;
+  //   align-items: center;
+  //   .report-icon {
+  //     fill: #707481;
+  //   }
+  //   &:hover {
+  //     .report-icon {
+  //       fill: #1F1F1F;
+  //     }
+  //   }
+  // }
+  
+}
+
+.h3-dialog-input.focusingOn {
+  box-shadow: 0px 0px 0px 2px rgba(49,94,251,0.2);
+  border: 1px solid #315EFB;
+}

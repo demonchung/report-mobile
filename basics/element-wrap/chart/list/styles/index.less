@@ -1,0 +1,268 @@
+@static-color: #304265;
+@secondary-color: #8893A7;
+
+@table-head-bgcolor: #ECF0F6;
+@table-border-color: #DADCE5;
+@table-odd-bgcolor: #ffffff;
+@table-even-bgcolor: #FBFCFE;
+
+@table-cell-height: 36px;
+@table-cell-line-height: 20px;
+.h3-report-list * {
+  vertical-align: middle;
+}
+.h3-report-list {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0 16px 8px;
+  color: @static-color;
+  .column-resize-line {
+    z-index: 100;
+    position: absolute;
+    left: 10px;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 1px;
+    display: none;
+    background-color: #abadb4;
+  }
+  .column-resize-line.dragged {
+   display: block;
+  }
+
+  &__loading {
+    position: absolute;
+    display: flex;
+    height: calc(100% - 32px);
+    width: 100%;
+    overflow: hidden;
+    z-index: 3;
+    background: rgba(232, 232, 232, 0.2);
+  }
+  &__content {
+    position: relative;
+    height: calc(100% - 32px);
+    overflow: hidden;
+    border: 1px solid @table-border-color;
+
+  }
+  &__static{
+    position: absolute;
+    //pointer-events: none;
+    z-index: 2;
+    .h3-report-list-table-head {
+      position: relative;
+      z-index: 9;
+      color: inherit;
+    }
+    .h3-report-list-table-body {
+      position: relative;
+    }
+    .h3-report-list-table-footer {
+      position: absolute;
+      z-index: 9;
+      color: inherit;
+    }
+  }
+  &__pane{
+    height: 100%;
+    /deep/.h3-scroll__axis--warp{
+      z-index: 9;
+    }
+    .h3-scroll__axis--warp-x {
+      z-index: 2; 
+    }
+    .h3-report-list-table-head thead tr:first-child th:last-child {
+      border-right: none;
+    }
+    .h3-report-list-table-body tbody th:last-child {
+      border-right: none;
+    }
+    .h3-report-list-table-footer tfoot tr:first-child th:last-child {
+      border-right: none;
+    }
+
+    &__body{
+
+    }
+  }
+  &__tool {
+    padding-top: 8px;
+    text-align: right;
+    font-family: auto;
+  }
+
+
+  &-table-head {
+    thead {
+      color: inherit;
+      font-weight: 500;
+      tr {
+        background:@table-head-bgcolor;
+      }
+      th{
+        color: inherit;
+        text-decoration: none !important;
+        min-width: 0;
+        max-width: 0;
+        border-right: 1px solid @table-border-color;
+        border-bottom: 1px solid @table-border-color;
+        box-sizing: border-box;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        word-break: break-all;
+        // height: @table-cell-height;
+        padding: 8px 12px;
+        font-weight: normal;
+        // font-size: 12px !important;
+        position: relative;
+        text-align: left;
+      }
+      .column-resize-area{
+        position: absolute;
+        cursor: ew-resize;
+        width: 8px;
+        height: 100%;
+        top: 0;
+        right:0;
+        z-index: 1000;
+      }
+
+    }
+  }
+
+  &-table-body {
+    tbody {
+      tr:nth-child(2n) {
+        background:@table-even-bgcolor;
+      }
+      tr {
+        background: @table-odd-bgcolor;
+      }
+      th{
+        color: inherit;
+        text-decoration: none !important;
+        min-width: 0;
+        max-width: 0;
+        padding: 0;
+        border-right: 1px solid @table-border-color;
+        border-bottom: 1px solid @table-border-color;
+        box-sizing: border-box;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        // white-space: nowrap;
+        word-break: break-all;
+        font-weight: normal;
+        // font-size: 12px !important;
+        .h3-report-list-table-body__cell {
+          padding: 8px 12px;
+          // line-height: 18px;
+          min-height: 36px;
+          // height: @table-cell-height;
+          max-height: 66px;
+          box-sizing: border-box;
+          border-bottom: 1px solid @table-border-color;
+          overflow: hidden;
+          text-overflow:ellipsis;
+          // white-space: nowrap;
+          // font-size: 12px !important;
+          text-align: left;
+          .content {
+            max-height: 58px;
+            // overflow : hidden;
+            text-overflow: ellipsis;
+            background-color: unset;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 3;
+          }
+          &-right{
+            text-align:right;
+          }
+          &:last-child{
+            border-bottom: none;
+          }
+          &-padding{
+            padding: 8px 0px;
+          }
+        }
+        // .h3-report-list-table-body__cell-content {
+        //   max-height: 58px;
+        //   overflow: hidden;
+        //   text-overflow:ellipsis;
+        // }
+      }
+    }
+  }
+
+  &-table-footer {
+    tfoot {
+      color: inherit;
+      font-weight: 500;
+      tr {
+        background:@table-head-bgcolor;
+      }
+      th{
+        color: inherit;
+        text-decoration: none !important;
+        min-width: 0;
+        max-width: 0;
+        border-right: 1px solid @table-border-color;
+        border-bottom: 1px solid @table-border-color;
+        border-top: 1px solid @table-border-color;
+        box-sizing: border-box;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        word-break: break-all;
+        // height: @table-cell-height;
+        padding: 8px 12px;
+        font-weight: normal;
+        // font-size: 12px !important;
+        position: relative;
+        text-align: left;
+      }
+    }
+  }
+
+ 
+  &__transparent {
+    .h3-report-list__static  tr {
+        background-color: #121E2B !important;
+      }
+    tr {
+      background-color: inherit !important;
+    }
+    .report-list-pagination__page-num {
+      background-color: inherit !important;
+    }
+    .report-list-pagination__changer__input {
+      background-color: inherit !important;
+    }
+  }
+}
+
+
+// 控制文本align
+.h3-report-list__right  th{
+  .h3-report-list-table-body__cell{
+    text-align: right !important;
+  }
+  text-align: right !important;
+}
+.h3-report-list__left  th{
+  .h3-report-list-table-body__cell{
+    text-align: left !important;
+  }
+  text-align: left !important;
+}
+.h3-report-list__center  th{
+  .h3-report-list-table-body__cell{
+    text-align: center !important;
+  }
+  text-align: center !important;
+}

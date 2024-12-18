@@ -1,0 +1,75 @@
+.h3-report-chart{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  z-index: 2;
+  flex: 1;
+  overflow: hidden;
+  border-radius: 4px;
+  &__body{
+    flex: 1;
+  }
+  &__placeholder{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    position: relative;
+    .empty-img {
+      width: 80px;
+      height: 80px;
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
+    .chart-placeholder {
+      width: 86%;
+      height: 100%;
+      opacity: 0.3;
+    }
+    .chart-placeholder-dark {
+      width: 86%;
+      height: 100%;
+      opacity: 1;
+    }
+    .chart-placeholder-label {
+      padding: 4px 12px;
+      font-size:12px;
+      font-weight:400;
+      color:#707481;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-13px);
+      line-height: 22px;
+      background: rgba(255,255,255,0.5);
+      border: 1px solid #EFEFEF;
+      border-radius: 2px;
+    }
+    .chart-placeholder-label-dark {
+      padding: 4px 12px;
+      font-size:12px;
+      font-weight:400;
+      color:#FFFFFF;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-13px);
+      line-height: 22px;
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(130,130,130,0.35);
+      border-radius: 2px;
+    }
+  }
+  &__chartText{
+    color: #8893A7;
+    font-size: 16px;
+    margin-top: 30px;
+  }
+  &__placeholder--label{
+    padding: 16px 20px 0;
+    font-size:14px;
+    font-weight:400;
+    color:rgba(136,147,167,1);
+  }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="5px" viewBox="0 0 8 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon备份</title>
+    <g id="高级数据源" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="左侧列表" transform="translate(-78.000000, -2511.000000)">
+            <g id="编组-2备份-15" transform="translate(51.000000, 2495.000000)">
+                <g id="caret-down" transform="translate(24.000000, 11.000000)">
+                    <rect id="Rectangle" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                    <path d="M6.81151367,9.82214035 C6.85883801,9.88216692 6.92763082,9.91666667 7,9.91666667 C7.07236918,9.91666667 7.14116199,9.88216692 7.18848633,9.82214035 L10.4388068,5.70202355 C10.5784173,5.52517552 10.4637286,5.25 10.2503205,5.25 L3.74967952,5.25 C3.53627139,5.25 3.42158266,5.5250871 3.5611932,5.70202355 L6.81151367,9.82214035 Z" id="Path" fill="#707481"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

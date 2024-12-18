@@ -1,0 +1,235 @@
+import { ElementType } from "@h3/report-mobile/basics/enum/chart-type";
+import { ModuleType } from "@h3/report-mobile/basics/enum/chart-modules-type";
+
+/**
+ * 各个图表所拥有的模块
+ * 格式说明:
+ */
+export const ChartModulesOptions: { [key: string]: Array<ModuleType> } = {
+  [ElementType.BAR]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Sort,
+    ModuleType.Theme,
+    ModuleType.Legend,
+    ModuleType.Limit,
+    ModuleType.DataLabel,
+    ModuleType.AxisX,
+    ModuleType.MetricRange,
+    ModuleType.AxisYSet,
+    ModuleType.SplitLine,
+    ModuleType.DataZoom
+  ],
+  [ElementType.STRIPE]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Sort,
+    ModuleType.Theme,
+    ModuleType.Legend,
+    ModuleType.Limit,
+    ModuleType.DataLabel,
+    ModuleType.AxisX,
+    ModuleType.MetricRange,
+    ModuleType.AxisYSet,
+    ModuleType.SplitLine,
+    ModuleType.DataZoom
+  ],
+  [ElementType.PILEBAR]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Sort,
+    ModuleType.Theme,
+    ModuleType.Legend,
+    ModuleType.Limit,
+    ModuleType.DataLabel,
+    ModuleType.DataLabelPileSum,
+    ModuleType.AxisX,
+    ModuleType.MetricRange,
+    ModuleType.AxisYSet,
+    ModuleType.SplitLine,
+    ModuleType.DataZoom
+  ],
+  [ElementType.AREA]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Sort,
+    ModuleType.Filter,
+    ModuleType.Theme,
+    ModuleType.Legend,
+    ModuleType.Limit,
+    ModuleType.DataLabel,
+    ModuleType.AxisX,
+    ModuleType.MetricRange,
+    ModuleType.AxisYSet,
+    ModuleType.SplitLine,
+    ModuleType.DataZoom
+  ],
+  [ElementType.LINE]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Sort,
+    ModuleType.Theme,
+    ModuleType.Legend,
+    ModuleType.Limit,
+    ModuleType.DataLabel,
+    ModuleType.AxisX,
+    ModuleType.MetricRange,
+    ModuleType.AxisYSet,
+    ModuleType.SplitLine,
+    ModuleType.DataZoom
+  ],
+  [ElementType.PIE]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Sort,
+    ModuleType.Theme,
+    ModuleType.Legend,
+    ModuleType.DimensionLimit,
+    ModuleType.MultipleDataLabel
+  ],
+  [ElementType.RADAR]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Sort,
+    ModuleType.Theme,
+    ModuleType.Legend,
+    ModuleType.Limit,
+    ModuleType.DataLabel,
+    ModuleType.MetricRange
+  ],
+  [ElementType.TABLE]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.GroupDimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Sort,
+    ModuleType.OrderNumber,
+    ModuleType.FreezeHead
+  ],
+  [ElementType.CROSSTABLE]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.PageSet,
+    ModuleType.GroupDimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Sort,
+    ModuleType.FreezeHead,
+    ModuleType.MoreOrderNumber,
+    ModuleType.CrossSummary
+    // ModuleType.ListTextAlign,
+  ],
+  [ElementType.CARD]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Sort,
+    ModuleType.Limit
+  ],
+  [ElementType.FUNNEL]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Theme,
+    ModuleType.Sort,
+    ModuleType.Legend,
+    ModuleType.Limit,
+    ModuleType.DataLabel
+  ],
+  [ElementType.FUNNELCOMPARE]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Theme,
+    ModuleType.CompareData,
+    ModuleType.Legend,
+    ModuleType.Limit,
+    ModuleType.MetricLabel,
+    ModuleType.MetricValue,
+    ModuleType.Invert
+  ],
+  [ElementType.SCATTER]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Theme,
+    ModuleType.Legend,
+    ModuleType.AxisYSet,
+    ModuleType.SplitLine
+  ],
+  [ElementType.BIAX]: [
+    ModuleType.ChartSwitch,
+    ModuleType.MultiMetricType,
+    ModuleType.Dimension,
+    ModuleType.MetricGroup,
+    ModuleType.Sort,
+    ModuleType.Filter,
+    ModuleType.Theme,
+    ModuleType.Legend,
+    ModuleType.AxisX,
+    ModuleType.AxisYSet,
+    ModuleType.SplitLine,
+    ModuleType.DataZoom
+  ],
+  [ElementType.MAP]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.MapTheme,
+    ModuleType.MapMode,
+    ModuleType.MapArea,
+    ModuleType.MapDrill,
+    ModuleType.MapDigitalSet
+  ],
+  [ElementType.LIST]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Filter,
+    ModuleType.FontSetting,
+    ModuleType.ElementCoat,
+    ModuleType.Download,
+    ModuleType.FreezeHead,
+    ModuleType.OrderNumber,
+    ModuleType.Linkage
+  ],
+  [ElementType.PROGRESSBAR]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.Sort,
+    ModuleType.Limit,
+    ModuleType.Theme,
+    ModuleType.ProgressLabel
+  ],
+  [ElementType.GAUGE]: [
+    ModuleType.ChartSwitch,
+    ModuleType.Dimension,
+    ModuleType.Metric,
+    ModuleType.Filter,
+    ModuleType.GaugeMode,
+    ModuleType.Theme,
+    ModuleType.ProgressLabel
+  ],
+  global: [ModuleType.PaintCoat, ModuleType.ElementCoat, ModuleType.FontSetting]
+};

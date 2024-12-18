@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="552px" height="314px" viewBox="0 0 552 314" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 32备份 21</title>
+    <g id="数据分析" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="统计分析" transform="translate(-854.000000, -578.000000)">
+            <g id="编组-32备份-21" transform="translate(855.000000, 579.000000)">
+                <rect id="矩形备份-8" stroke="#E8EAF0" fill="#FFFFFF" x="-0.5" y="-0.5" width="551" height="313" rx="4"></rect>
+                <g id="x备份-9" transform="translate(59.000000, 89.000000)" stroke="#E9E9EB">
+                    <line x1="0" y1="86.5" x2="463" y2="86.5" id="Path" stroke-dasharray="3,3"></line>
+                    <line x1="0" y1="130.5" x2="463" y2="130.5" id="Path备份-2" stroke-dasharray="3,3"></line>
+                    <line x1="0" y1="43.5" x2="463" y2="43.5" id="Path备份" stroke-dasharray="3,3"></line>
+                    <line x1="0" y1="0.5" x2="463" y2="0.5" id="Path" stroke-dasharray="3,3"></line>
+                    <line x1="0" y1="173.341269" x2="462.714695" y2="173.510791" id="Path"></line>
+                </g>
+                <g id="图表备份-21" transform="translate(81.000000, 191.000000)" fill-rule="nonzero">
+                    <g id="编组-2备份-2">
+                        <polygon id="Path" fill="#647CFC" points="0 72 0 13 18 13 18 72"></polygon>
+                        <polygon id="Path" fill="#FFC825" points="19.5 72 19.5 0 37.5 0 37.5 72"></polygon>
+                    </g>
+                </g>
+                <g id="图表备份-22" transform="translate(156.000000, 160.000000)" fill-rule="nonzero">
+                    <g id="编组-2备份-2">
+                        <polygon id="Path" fill="#647CFC" points="0 103 0 0 18 0 18 103"></polygon>
+                        <polygon id="Path" fill="#FFC825" points="19.5 103 19.5 88 37.5 88 37.5 103"></polygon>
+                    </g>
+                </g>
+                <g id="图表备份-23" transform="translate(233.000000, 143.468085)" fill-rule="nonzero">
+                    <g id="编组-2备份-2">
+                        <polygon id="Path" fill="#647CFC" points="0 119.531915 0 88.5319149 18 88.5319149 18 119.531915"></polygon>
+                        <polygon id="Path" fill="#FFC825" points="19.5 119.531915 19.5 0 37.5 0 37.5 119.531915"></polygon>
+                    </g>
+                </g>
+                <g id="图表备份-24" transform="translate(310.000000, 94.000000)" fill-rule="nonzero">
+                    <g id="编组-2备份-2">
+                        <polygon id="Path" fill="#647CFC" points="0 169 0 0 18 0 18 169"></polygon>
+                        <polygon id="Path" fill="#FFC825" points="19.5 169 19.5 34 37.5 34 37.5 169"></polygon>
+                    </g>
+                </g>
+                <g id="图表备份-25" transform="translate(389.000000, 227.000000)" fill-rule="nonzero">
+                    <g id="编组-2备份-2">
+                        <polygon id="Path" fill="#647CFC" points="0 36 0 0 18 0 18 36"></polygon>
+                        <polygon id="Path" fill="#FFC825" points="19.5 36 19.5 0 37.5 0 37.5 36"></polygon>
+                    </g>
+                </g>
+                <g id="图表备份-26" transform="translate(464.000000, 173.000000)" fill-rule="nonzero">
+                    <g id="编组-2备份-2">
+                        <polygon id="Path" fill="#647CFC" points="0 90 0 70 18 70 18 90"></polygon>
+                        <polygon id="Path" fill="#FFC825" points="19.5 90 19.5 0 37.5 0 37.5 90"></polygon>
+                    </g>
+                </g>
+                <text id="示例图表名称" font-family="PingFangSC-Semibold, PingFang SC" font-size="13" font-weight="500" line-spacing="22" fill="#121933">
+                    <tspan x="16" y="30">示例图表名称</tspan>
+                </text>
+                <g id="间距-&lt;h8-&gt;备份-13" transform="translate(16.000000, 44.000000)">
+                    <text id="门店1" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#707481">
+                        <tspan x="12" y="13">门店1</tspan>
+                    </text>
+                    <rect id="矩形" fill="#647CFC" fill-rule="nonzero" x="0" y="5" width="8" height="8.05538202" rx="4"></rect>
+                </g>
+                <g id="间距-&lt;h8-&gt;备份-14" transform="translate(73.000000, 44.000000)">
+                    <text id="门店2" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#707481">
+                        <tspan x="12.8" y="13">门店2</tspan>
+                    </text>
+                    <rect id="矩形" fill="#FFC825" fill-rule="nonzero" x="0" y="5" width="8" height="8.05538202" rx="4"></rect>
+                </g>
+                <text id="家具家电" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#121933">
+                    <tspan x="76" y="286">家具家电</tspan>
+                </text>
+                <text id="粮油副食" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#121933">
+                    <tspan x="152.87" y="286">粮油副食</tspan>
+                </text>
+                <text id="美容洗护" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#121933">
+                    <tspan x="229.74" y="286">美容洗护</tspan>
+                </text>
+                <text id="母婴用品" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#121933">
+                    <tspan x="306.61" y="286">母婴用品</tspan>
+                </text>
+                <text id="进口食品" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#121933">
+                    <tspan x="383.48" y="286">进口食品</tspan>
+                </text>
+                <text id="食品饮料" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#121933">
+                    <tspan x="460.35" y="286">食品饮料</tspan>
+                </text>
+                <text id="1000" font-family="D-DIN" font-size="14" font-weight="normal" fill="#707481">
+                    <tspan x="16" y="94">1000</tspan>
+                </text>
+                <text id="750" font-family="D-DIN" font-size="14" font-weight="normal" fill="#707481">
+                    <tspan x="22" y="137.5">750</tspan>
+                </text>
+                <text id="500" font-family="D-DIN" font-size="14" font-weight="normal" fill="#707481">
+                    <tspan x="21" y="181">500</tspan>
+                </text>
+                <text id="250" font-family="D-DIN" font-size="14" font-weight="normal" fill="#707481">
+                    <tspan x="21" y="224.5">250</tspan>
+                </text>
+                <text id="0" font-family="D-DIN" font-size="14" font-weight="normal" fill="#707481">
+                    <tspan x="35" y="268">0</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

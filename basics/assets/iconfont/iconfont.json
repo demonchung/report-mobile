@@ -1,0 +1,1647 @@
+{
+  "id": "3705248",
+  "name": "public-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "38501056",
+      "name": "dislike-stroke ",
+      "font_class": "dislike-stroke",
+      "unicode": "e7da",
+      "unicode_decimal": 59354
+    },
+    {
+      "icon_id": "38501055",
+      "name": "like-stroke ",
+      "font_class": "like-stroke",
+      "unicode": "e7dc",
+      "unicode_decimal": 59356
+    },
+    {
+      "icon_id": "38436870",
+      "name": "robot-stoke",
+      "font_class": "robot-stoke",
+      "unicode": "e7d9",
+      "unicode_decimal": 59353
+    },
+    {
+      "icon_id": "38126098",
+      "name": "tick-circle-fill",
+      "font_class": "tick-circle-fill",
+      "unicode": "e7d8",
+      "unicode_decimal": 59352
+    },
+    {
+      "icon_id": "37277411",
+      "name": "save-stoke",
+      "font_class": "save-stoke",
+      "unicode": "e7d5",
+      "unicode_decimal": 59349
+    },
+    {
+      "icon_id": "37150893",
+      "name": "eliminate-stroke",
+      "font_class": "eliminate-stroke",
+      "unicode": "e7d4",
+      "unicode_decimal": 59348
+    },
+    {
+      "icon_id": "37136514",
+      "name": "Histogram-stoke",
+      "font_class": "Histogram-stoke",
+      "unicode": "e7c7",
+      "unicode_decimal": 59335
+    },
+    {
+      "icon_id": "37136513",
+      "name": "Stacked bar chart-stoke",
+      "font_class": "a-Stackedbarchart-stoke",
+      "unicode": "e7ca",
+      "unicode_decimal": 59338
+    },
+    {
+      "icon_id": "37136512",
+      "name": "Plotting-stoke",
+      "font_class": "Plotting-stoke",
+      "unicode": "e7cb",
+      "unicode_decimal": 59339
+    },
+    {
+      "icon_id": "37136511",
+      "name": "bar chart-stoke",
+      "font_class": "a-barchart-stoke",
+      "unicode": "e7cc",
+      "unicode_decimal": 59340
+    },
+    {
+      "icon_id": "37136509",
+      "name": "Pie-stoke",
+      "font_class": "Pie-stoke",
+      "unicode": "e7ce",
+      "unicode_decimal": 59342
+    },
+    {
+      "icon_id": "37136508",
+      "name": "line chart-stoke",
+      "font_class": "a-linechart-stoke",
+      "unicode": "e7d0",
+      "unicode_decimal": 59344
+    },
+    {
+      "icon_id": "37136510",
+      "name": "stacked column chart-stoke",
+      "font_class": "a-stackedcolumnchart-stoke",
+      "unicode": "e7d3",
+      "unicode_decimal": 59347
+    },
+    {
+      "icon_id": "37046784",
+      "name": "smile-stoke",
+      "font_class": "smile-stoke",
+      "unicode": "e7c6",
+      "unicode_decimal": 59334
+    },
+    {
+      "icon_id": "37046005",
+      "name": "sending-full",
+      "font_class": "sending-full",
+      "unicode": "e7c5",
+      "unicode_decimal": 59333
+    },
+    {
+      "icon_id": "36131912",
+      "name": "line-color-stoke",
+      "font_class": "line-color-stoke",
+      "unicode": "e7c1",
+      "unicode_decimal": 59329
+    },
+    {
+      "icon_id": "36131931",
+      "name": "line-style-stoke",
+      "font_class": "line-style-stoke",
+      "unicode": "e7c4",
+      "unicode_decimal": 59332
+    },
+    {
+      "icon_id": "35878674",
+      "name": "user-gap-stamp-stroke",
+      "font_class": "user-gap-stamp-stroke",
+      "unicode": "e7be",
+      "unicode_decimal": 59326
+    },
+    {
+      "icon_id": "35690442",
+      "name": "复选框边框",
+      "font_class": "fuxuankuangbiankuang",
+      "unicode": "e7bd",
+      "unicode_decimal": 59325
+    },
+    {
+      "icon_id": "35690360",
+      "name": "单选1常态备份",
+      "font_class": "danxuan1changtaibeifen",
+      "unicode": "e7bc",
+      "unicode_decimal": 59324
+    },
+    {
+      "icon_id": "35256719",
+      "name": "edit-stroke",
+      "font_class": "edit-stroke1",
+      "unicode": "e7bb",
+      "unicode_decimal": 59323
+    },
+    {
+      "icon_id": "35084571",
+      "name": "tab-component-stoke",
+      "font_class": "tab-component-stoke",
+      "unicode": "e7ba",
+      "unicode_decimal": 59322
+    },
+    {
+      "icon_id": "35026048",
+      "name": "instrument-diagram-b-fill",
+      "font_class": "instrument-diagram-b-fill1",
+      "unicode": "e7b7",
+      "unicode_decimal": 59319
+    },
+    {
+      "icon_id": "35026049",
+      "name": "instrument-diagram2-b-fill",
+      "font_class": "instrument-diagram2-b-fill",
+      "unicode": "e7b8",
+      "unicode_decimal": 59320
+    },
+    {
+      "icon_id": "34995743",
+      "name": "arrow-syn-stroke (1)",
+      "font_class": "a-arrow-syn-stroke1",
+      "unicode": "e7b6",
+      "unicode_decimal": 59318
+    },
+    {
+      "icon_id": "34977838",
+      "name": "pallet-fill",
+      "font_class": "pallet-fill",
+      "unicode": "e7b5",
+      "unicode_decimal": 59317
+    },
+    {
+      "icon_id": "34976505",
+      "name": "list-diagram-b-fill",
+      "font_class": "list-diagram-b-fill",
+      "unicode": "e7b1",
+      "unicode_decimal": 59313
+    },
+    {
+      "icon_id": "34976507",
+      "name": "indicator-chart-b-fill",
+      "font_class": "indicator-chart-b-fill",
+      "unicode": "e7b4",
+      "unicode_decimal": 59316
+    },
+    {
+      "icon_id": "34975974",
+      "name": "indicator-chart-fill",
+      "font_class": "indicator-chart-fill",
+      "unicode": "e7ae",
+      "unicode_decimal": 59310
+    },
+    {
+      "icon_id": "34975975",
+      "name": "list-diagram-fill",
+      "font_class": "list-diagram-fill",
+      "unicode": "e7af",
+      "unicode_decimal": 59311
+    },
+    {
+      "icon_id": "34967409",
+      "name": "percentage -column-stacking-b-chart",
+      "font_class": "a-percentage-column-stacking-b-chart",
+      "unicode": "e7ac",
+      "unicode_decimal": 59308
+    },
+    {
+      "icon_id": "34967410",
+      "name": "percentage- column-bar-b-chart",
+      "font_class": "a-percentage-column-bar-b-chart",
+      "unicode": "e7ad",
+      "unicode_decimal": 59309
+    },
+    {
+      "icon_id": "34967403",
+      "name": "percentage- column-bar-chart",
+      "font_class": "percentPileStripe-Colored-fill",
+      "unicode": "e7aa",
+      "unicode_decimal": 59306
+    },
+    {
+      "icon_id": "34967404",
+      "name": "percentage -column-stacking-chart",
+      "font_class": "percentPileBar-Colored-fill",
+      "unicode": "e7ab",
+      "unicode_decimal": 59307
+    },
+    {
+      "icon_id": "34967182",
+      "name": "arrow-reload-stroke",
+      "font_class": "arrow-reload-stroke",
+      "unicode": "e7a7",
+      "unicode_decimal": 59303
+    },
+    {
+      "icon_id": "34967183",
+      "name": "screen-flipping-stoke",
+      "font_class": "screen-flipping-stoke",
+      "unicode": "e7a9",
+      "unicode_decimal": 59305
+    },
+    {
+      "icon_id": "34967067",
+      "name": "scatter-diagram-b-fill",
+      "font_class": "scatter-diagram-b-fill",
+      "unicode": "e79f",
+      "unicode_decimal": 59295
+    },
+    {
+      "icon_id": "34967068",
+      "name": "pie-solid-b-fill",
+      "font_class": "pie-solid-b-fill",
+      "unicode": "e7a2",
+      "unicode_decimal": 59298
+    },
+    {
+      "icon_id": "34967069",
+      "name": "radar-chart-b-fill",
+      "font_class": "radar-chart-b-fill",
+      "unicode": "e7a3",
+      "unicode_decimal": 59299
+    },
+    {
+      "icon_id": "34967070",
+      "name": "pie-doughnut-b-fill",
+      "font_class": "pie-doughnut-b-fill",
+      "unicode": "e7a5",
+      "unicode_decimal": 59301
+    },
+    {
+      "icon_id": "34967031",
+      "name": "progress-chart-b-fill",
+      "font_class": "progress-chart-b-fill",
+      "unicode": "e798",
+      "unicode_decimal": 59288
+    },
+    {
+      "icon_id": "34967032",
+      "name": "instrument-diagram-b-fill",
+      "font_class": "instrument-diagram-b-fill",
+      "unicode": "e79a",
+      "unicode_decimal": 59290
+    },
+    {
+      "icon_id": "34967033",
+      "name": "Index-chart-b-fill",
+      "font_class": "Index-chart-b-fill",
+      "unicode": "e79c",
+      "unicode_decimal": 59292
+    },
+    {
+      "icon_id": "34966785",
+      "name": "bar-chart-b-fill",
+      "font_class": "bar-chart-b-fill",
+      "unicode": "e785",
+      "unicode_decimal": 59269
+    },
+    {
+      "icon_id": "34966786",
+      "name": "comparison-funnel-b-fill",
+      "font_class": "comparison-funnel-b-fill",
+      "unicode": "e786",
+      "unicode_decimal": 59270
+    },
+    {
+      "icon_id": "34966787",
+      "name": "line -chart-b-fill",
+      "font_class": "a-line-chart-b-fill",
+      "unicode": "e787",
+      "unicode_decimal": 59271
+    },
+    {
+      "icon_id": "34966788",
+      "name": "histogram-b-fill",
+      "font_class": "histogram-b-fill",
+      "unicode": "e789",
+      "unicode_decimal": 59273
+    },
+    {
+      "icon_id": "34966789",
+      "name": "area-map-b-fill",
+      "font_class": "area-map-b-fill",
+      "unicode": "e78a",
+      "unicode_decimal": 59274
+    },
+    {
+      "icon_id": "34966790",
+      "name": "funnel-diagram-b-fill",
+      "font_class": "funnel-diagram-b-fill",
+      "unicode": "e78b",
+      "unicode_decimal": 59275
+    },
+    {
+      "icon_id": "34966791",
+      "name": "stacked-column-chart-b-fill",
+      "font_class": "stacked-column-chart-b-fill",
+      "unicode": "e78c",
+      "unicode_decimal": 59276
+    },
+    {
+      "icon_id": "34966792",
+      "name": "stacked-bar-b-fill",
+      "font_class": "stacked-bar-b-fill",
+      "unicode": "e78d",
+      "unicode_decimal": 59277
+    },
+    {
+      "icon_id": "34966793",
+      "name": "biaxial-graph-b-fill",
+      "font_class": "biaxial-graph-b-fill",
+      "unicode": "e78e",
+      "unicode_decimal": 59278
+    },
+    {
+      "icon_id": "34966760",
+      "name": "crosstab-b-fill",
+      "font_class": "crosstab-b-fill",
+      "unicode": "e77f",
+      "unicode_decimal": 59263
+    },
+    {
+      "icon_id": "34966761",
+      "name": "pivot-table-b-fill",
+      "font_class": "pivot-table-b-fill",
+      "unicode": "e780",
+      "unicode_decimal": 59264
+    },
+    {
+      "icon_id": "34966762",
+      "name": "schedule-b-fill",
+      "font_class": "schedule-b-fill",
+      "unicode": "e781",
+      "unicode_decimal": 59265
+    },
+    {
+      "icon_id": "34966705",
+      "name": "in-connection-stoke 2",
+      "font_class": "inner-connection-stoke",
+      "unicode": "e77d",
+      "unicode_decimal": 59261
+    },
+    {
+      "icon_id": "34966451",
+      "name": "right-connection-stoke",
+      "font_class": "right-connection-stoke",
+      "unicode": "e77c",
+      "unicode_decimal": 59260
+    },
+    {
+      "icon_id": "34966348",
+      "name": "left-connection-stoke",
+      "font_class": "left-connection-stoke",
+      "unicode": "e77b",
+      "unicode_decimal": 59259
+    },
+    {
+      "icon_id": "34965970",
+      "name": "field-calendar-stroke",
+      "font_class": "field-date-stroke",
+      "unicode": "e77a",
+      "unicode_decimal": 59258
+    },
+    {
+      "icon_id": "34965469",
+      "name": "field-time-stroke",
+      "font_class": "field-time-stroke1",
+      "unicode": "e774",
+      "unicode_decimal": 59252
+    },
+    {
+      "icon_id": "34965470",
+      "name": "mobile-phone-stroke",
+      "font_class": "mobile-phone-stroke1",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "34965471",
+      "name": "field-picture-stroke",
+      "font_class": "field-picture-stroke1",
+      "unicode": "e777",
+      "unicode_decimal": 59255
+    },
+    {
+      "icon_id": "34965472",
+      "name": "time-stroke",
+      "font_class": "time-stroke",
+      "unicode": "e778",
+      "unicode_decimal": 59256
+    },
+    {
+      "icon_id": "34965512",
+      "name": "question-circle-fill",
+      "font_class": "question-circle-fill",
+      "unicode": "e779",
+      "unicode_decimal": 59257
+    },
+    {
+      "icon_id": "34964244",
+      "name": "field-Summary-stroke",
+      "font_class": "field-Summary-stroke",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "34964245",
+      "name": "field-mail-stroke",
+      "font_class": "field-mail-stroke1",
+      "unicode": "e75c",
+      "unicode_decimal": 59228
+    },
+    {
+      "icon_id": "34964246",
+      "name": "formula-stroke (1)",
+      "font_class": "a-formula-stroke11",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "34964247",
+      "name": "field-number-stroke (1)",
+      "font_class": "field-number-stroke",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "34964248",
+      "name": "associated-reference-stoke",
+      "font_class": "associated-reference-stoke",
+      "unicode": "e760",
+      "unicode_decimal": 59232
+    },
+    {
+      "icon_id": "34964249",
+      "name": "field-attachment-stroke",
+      "font_class": "field-attachment-stroke",
+      "unicode": "e762",
+      "unicode_decimal": 59234
+    },
+    {
+      "icon_id": "34964250",
+      "name": "table-sub-stroke",
+      "font_class": "table-sub-stroke1",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "34964251",
+      "name": "field-position-stroke",
+      "font_class": "field-position-stroke",
+      "unicode": "e765",
+      "unicode_decimal": 59237
+    },
+    {
+      "icon_id": "34964252",
+      "name": "field-input-stroke (1)",
+      "font_class": "field-string-stroke",
+      "unicode": "e76f",
+      "unicode_decimal": 59247
+    },
+    {
+      "icon_id": "34964253",
+      "name": "team-sub-stroke",
+      "font_class": "team-sub-stroke",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    },
+    {
+      "icon_id": "34964254",
+      "name": "field-textarea-stroke",
+      "font_class": "field-textarea-stroke1",
+      "unicode": "e773",
+      "unicode_decimal": 59251
+    },
+    {
+      "icon_id": "34898802",
+      "name": "share-link-Stroke",
+      "font_class": "share-link-Stroke",
+      "unicode": "e757",
+      "unicode_decimal": 59223
+    },
+    {
+      "icon_id": "34898475",
+      "name": "align-vertical-cente",
+      "font_class": "align-vertical-cente",
+      "unicode": "e74e",
+      "unicode_decimal": 59214
+    },
+    {
+      "icon_id": "34898476",
+      "name": "same-size",
+      "font_class": "same-size",
+      "unicode": "e74f",
+      "unicode_decimal": 59215
+    },
+    {
+      "icon_id": "34898530",
+      "name": "vertical-alignment-stoke",
+      "font_class": "vertical-alignment-stoke",
+      "unicode": "e750",
+      "unicode_decimal": 59216
+    },
+    {
+      "icon_id": "34898569",
+      "name": "horizontal-stoke",
+      "font_class": "horizontal-stoke",
+      "unicode": "e755",
+      "unicode_decimal": 59221
+    },
+    {
+      "icon_id": "34898322",
+      "name": "minus-circle-stroke",
+      "font_class": "minus-circle-stroke",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "34898323",
+      "name": "form-link-stroke",
+      "font_class": "form-link-stroke1",
+      "unicode": "e746",
+      "unicode_decimal": 59206
+    },
+    {
+      "icon_id": "34898324",
+      "name": "desktop-stroke",
+      "font_class": "desktop-stroke",
+      "unicode": "e747",
+      "unicode_decimal": 59207
+    },
+    {
+      "icon_id": "34898325",
+      "name": "share-link-Stroke (1)",
+      "font_class": "a-share-link-Stroke11",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    },
+    {
+      "icon_id": "34898326",
+      "name": "Select-data-stroke",
+      "font_class": "Select-data-stroke",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "34897972",
+      "name": "import-fill",
+      "font_class": "import-fill",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "34897973",
+      "name": "filter-fill",
+      "font_class": "filter-fill",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "34897974",
+      "name": "export-fill",
+      "font_class": "export-fill",
+      "unicode": "e739",
+      "unicode_decimal": 59193
+    },
+    {
+      "icon_id": "34897975",
+      "name": "merge-fill",
+      "font_class": "merge-fill",
+      "unicode": "e73a",
+      "unicode_decimal": 59194
+    },
+    {
+      "icon_id": "34897976",
+      "name": "field-Settings-fill",
+      "font_class": "field-Settings-fill",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    },
+    {
+      "icon_id": "34897977",
+      "name": "group-summary-fill",
+      "font_class": "group-summary-fill",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "34897978",
+      "name": "relevance-fill",
+      "font_class": "relevance-fill",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "34896097",
+      "name": "drag-o",
+      "font_class": "drag-o",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "34894217",
+      "name": "associate-stroke",
+      "font_class": "associate-stroke1",
+      "unicode": "e735",
+      "unicode_decimal": 59189
+    },
+    {
+      "icon_id": "34894134",
+      "name": "sql-stoke",
+      "font_class": "sql-stoke1",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "34894080",
+      "name": "folder-fill",
+      "font_class": "folder-fill1",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "34893828",
+      "name": "data-stream-stoke",
+      "font_class": "data-stream-stoke",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    },
+    {
+      "icon_id": "34893829",
+      "name": "sql-stoke",
+      "font_class": "sql-stoke",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "34893624",
+      "name": "bulk-move-stoke",
+      "font_class": "bulk-move-stoke",
+      "unicode": "e72c",
+      "unicode_decimal": 59180
+    },
+    {
+      "icon_id": "34885680",
+      "name": "quick-edit-stoke",
+      "font_class": "quick-edit-stoke",
+      "unicode": "e828",
+      "unicode_decimal": 59432
+    },
+    {
+      "icon_id": "34885470",
+      "name": "text-component-stoke",
+      "font_class": "text-component-stoke",
+      "unicode": "e826",
+      "unicode_decimal": 59430
+    },
+    {
+      "icon_id": "34884111",
+      "name": "pivot-table-fill",
+      "font_class": "table-Colored-fill",
+      "unicode": "e811",
+      "unicode_decimal": 59409
+    },
+    {
+      "icon_id": "34884112",
+      "name": "area-map-fill",
+      "font_class": "area-Colored-fill",
+      "unicode": "e812",
+      "unicode_decimal": 59410
+    },
+    {
+      "icon_id": "34884113",
+      "name": "line -chart-fill",
+      "font_class": "line-Colored-fill",
+      "unicode": "e813",
+      "unicode_decimal": 59411
+    },
+    {
+      "icon_id": "34884114",
+      "name": "comparison-funnel-fill",
+      "font_class": "funnelCompare-Colored-fill",
+      "unicode": "e814",
+      "unicode_decimal": 59412
+    },
+    {
+      "icon_id": "34884115",
+      "name": "biaxial-graph-fill",
+      "font_class": "biax-Colored-fill",
+      "unicode": "e815",
+      "unicode_decimal": 59413
+    },
+    {
+      "icon_id": "34884116",
+      "name": "crosstab-fill",
+      "font_class": "crosstable-Colored-fill",
+      "unicode": "e816",
+      "unicode_decimal": 59414
+    },
+    {
+      "icon_id": "34884117",
+      "name": "funnel-diagram-fill",
+      "font_class": "funnel-Colored-fill",
+      "unicode": "e817",
+      "unicode_decimal": 59415
+    },
+    {
+      "icon_id": "34884118",
+      "name": "bar-chart-fill",
+      "font_class": "stripe-Colored-fill",
+      "unicode": "e818",
+      "unicode_decimal": 59416
+    },
+    {
+      "icon_id": "34884119",
+      "name": "progress-chart-fill",
+      "font_class": "progressBar-Colored-fill",
+      "unicode": "e819",
+      "unicode_decimal": 59417
+    },
+    {
+      "icon_id": "34884120",
+      "name": "stacked-bar-fill",
+      "font_class": "pileStripe-Colored-fill",
+      "unicode": "e81a",
+      "unicode_decimal": 59418
+    },
+    {
+      "icon_id": "34884121",
+      "name": "stacked-column-chart-fill",
+      "font_class": "pileBar-Colored-fill",
+      "unicode": "e81b",
+      "unicode_decimal": 59419
+    },
+    {
+      "icon_id": "34884122",
+      "name": "instrument-diagram-fill 2",
+      "font_class": "gauge-Colored-fill",
+      "unicode": "e81c",
+      "unicode_decimal": 59420
+    },
+    {
+      "icon_id": "34884123",
+      "name": "instrument-diagram2-fill",
+      "font_class": "gauge-Colored-fill1",
+      "unicode": "e81d",
+      "unicode_decimal": 59421
+    },
+    {
+      "icon_id": "34884124",
+      "name": "scatter-diagram-fill",
+      "font_class": "scatter-Colored-fill",
+      "unicode": "e81e",
+      "unicode_decimal": 59422
+    },
+    {
+      "icon_id": "34884125",
+      "name": "pie-solid-fill",
+      "font_class": "pie-Colored-fill",
+      "unicode": "e81f",
+      "unicode_decimal": 59423
+    },
+    {
+      "icon_id": "34884126",
+      "name": "schedule-fill",
+      "font_class": "list-Colored-fill",
+      "unicode": "e820",
+      "unicode_decimal": 59424
+    },
+    {
+      "icon_id": "34884127",
+      "name": "instrument-diagram-fill",
+      "font_class": "instrument-diagram-fill",
+      "unicode": "e821",
+      "unicode_decimal": 59425
+    },
+    {
+      "icon_id": "34884128",
+      "name": "histogram-fill",
+      "font_class": "bar-Colored-fill",
+      "unicode": "e822",
+      "unicode_decimal": 59426
+    },
+    {
+      "icon_id": "34884129",
+      "name": "radar-chart-fill",
+      "font_class": "radar-Colored-fill",
+      "unicode": "e823",
+      "unicode_decimal": 59427
+    },
+    {
+      "icon_id": "34884130",
+      "name": "pie-doughnut-fill",
+      "font_class": "pie-Colored-fill1",
+      "unicode": "e824",
+      "unicode_decimal": 59428
+    },
+    {
+      "icon_id": "34884131",
+      "name": "Index-chart-fill",
+      "font_class": "card-Colored-fill",
+      "unicode": "e825",
+      "unicode_decimal": 59429
+    },
+    {
+      "icon_id": "34884133",
+      "name": "map2-fill",
+      "font_class": "map-Colored-fill",
+      "unicode": "e827",
+      "unicode_decimal": 59431
+    },
+    {
+      "icon_id": "34884027",
+      "name": "trigon-top-fill",
+      "font_class": "trigon-top-fill",
+      "unicode": "e7fb",
+      "unicode_decimal": 59387
+    },
+    {
+      "icon_id": "34884029",
+      "name": "tool-filter-stroke (1)",
+      "font_class": "a-tool-filter-stroke1",
+      "unicode": "e7fd",
+      "unicode_decimal": 59389
+    },
+    {
+      "icon_id": "34884032",
+      "name": "tool-export-stroke",
+      "font_class": "tool-export-stroke",
+      "unicode": "e800",
+      "unicode_decimal": 59392
+    },
+    {
+      "icon_id": "34884033",
+      "name": "unlock-stroke",
+      "font_class": "unlock-stroke",
+      "unicode": "e801",
+      "unicode_decimal": 59393
+    },
+    {
+      "icon_id": "34884034",
+      "name": "tool-stroke",
+      "font_class": "tool-stroke",
+      "unicode": "e802",
+      "unicode_decimal": 59394
+    },
+    {
+      "icon_id": "34884037",
+      "name": "upload-stroke",
+      "font_class": "upload-stroke",
+      "unicode": "e805",
+      "unicode_decimal": 59397
+    },
+    {
+      "icon_id": "34884038",
+      "name": "to-color-stroke",
+      "font_class": "to-color-stroke",
+      "unicode": "e806",
+      "unicode_decimal": 59398
+    },
+    {
+      "icon_id": "34884045",
+      "name": "warning-stroke",
+      "font_class": "warning-stroke",
+      "unicode": "e80d",
+      "unicode_decimal": 59405
+    },
+    {
+      "icon_id": "34883946",
+      "name": "text-align-horizontal-right-stroke",
+      "font_class": "text-align-horizontal-right-stroke",
+      "unicode": "e7d1",
+      "unicode_decimal": 59345
+    },
+    {
+      "icon_id": "34883947",
+      "name": "table-same-width-stroke",
+      "font_class": "table-same-width-stroke",
+      "unicode": "e7d2",
+      "unicode_decimal": 59346
+    },
+    {
+      "icon_id": "34883951",
+      "name": "text-align-horizontal-center-stroke",
+      "font_class": "text-align-horizontal-center-stroke",
+      "unicode": "e7d6",
+      "unicode_decimal": 59350
+    },
+    {
+      "icon_id": "34883952",
+      "name": "table-split-stroke_1",
+      "font_class": "table-split-stroke_1",
+      "unicode": "e7d7",
+      "unicode_decimal": 59351
+    },
+    {
+      "icon_id": "34883956",
+      "name": "text-ascend-letter-stroke",
+      "font_class": "text-ascend-letter-stroke",
+      "unicode": "e7db",
+      "unicode_decimal": 59355
+    },
+    {
+      "icon_id": "34883961",
+      "name": "tick-stroke",
+      "font_class": "tick-stroke",
+      "unicode": "e7e0",
+      "unicode_decimal": 59360
+    },
+    {
+      "icon_id": "34883962",
+      "name": "table-sub-stroke",
+      "font_class": "table-sub-stroke",
+      "unicode": "e7e1",
+      "unicode_decimal": 59361
+    },
+    {
+      "icon_id": "34883970",
+      "name": "text-indent-right-stroke",
+      "font_class": "text-indent-right-stroke",
+      "unicode": "e7e9",
+      "unicode_decimal": 59369
+    },
+    {
+      "icon_id": "34883974",
+      "name": "table-sub-edit-stroke",
+      "font_class": "table-sub-edit-stroke",
+      "unicode": "e7ed",
+      "unicode_decimal": 59373
+    },
+    {
+      "icon_id": "34883975",
+      "name": "text-descend-stroke",
+      "font_class": "text-descend-stroke",
+      "unicode": "e7ee",
+      "unicode_decimal": 59374
+    },
+    {
+      "icon_id": "34883976",
+      "name": "text-descend-letter-stroke",
+      "font_class": "text-descend-letter-stroke",
+      "unicode": "e7ef",
+      "unicode_decimal": 59375
+    },
+    {
+      "icon_id": "34883979",
+      "name": "table-sub -edit-stroke",
+      "font_class": "a-table-sub-edit-stroke",
+      "unicode": "e7f2",
+      "unicode_decimal": 59378
+    },
+    {
+      "icon_id": "34883980",
+      "name": "text-ascend-stroke",
+      "font_class": "text-ascend-stroke",
+      "unicode": "e7f3",
+      "unicode_decimal": 59379
+    },
+    {
+      "icon_id": "34883982",
+      "name": "text-stroke",
+      "font_class": "text-stroke",
+      "unicode": "e7f5",
+      "unicode_decimal": 59381
+    },
+    {
+      "icon_id": "34883985",
+      "name": "text-italic-stroke",
+      "font_class": "text-italic-stroke",
+      "unicode": "e7f8",
+      "unicode_decimal": 59384
+    },
+    {
+      "icon_id": "34883987",
+      "name": "tick-circle-stroke",
+      "font_class": "tick-circle-stroke",
+      "unicode": "e7fa",
+      "unicode_decimal": 59386
+    },
+    {
+      "icon_id": "34883942",
+      "name": "sync",
+      "font_class": "sync",
+      "unicode": "e7cd",
+      "unicode_decimal": 59341
+    },
+    {
+      "icon_id": "34883944",
+      "name": "table-merge-stroke",
+      "font_class": "table-merge-stroke",
+      "unicode": "e7cf",
+      "unicode_decimal": 59343
+    },
+    {
+      "icon_id": "34883812",
+      "name": "ool-sort-stroke",
+      "font_class": "ool-sort-stroke",
+      "unicode": "e79b",
+      "unicode_decimal": 59291
+    },
+    {
+      "icon_id": "34883814",
+      "name": "open-stoke",
+      "font_class": "open-stoke",
+      "unicode": "e79d",
+      "unicode_decimal": 59293
+    },
+    {
+      "icon_id": "34883815",
+      "name": "picture-loading-failed-stoke",
+      "font_class": "picture-loading-failed-stoke",
+      "unicode": "e79e",
+      "unicode_decimal": 59294
+    },
+    {
+      "icon_id": "34883817",
+      "name": "paper-plane-stroke",
+      "font_class": "paper-plane-stroke",
+      "unicode": "e7a0",
+      "unicode_decimal": 59296
+    },
+    {
+      "icon_id": "34883818",
+      "name": "picture-stroke",
+      "font_class": "picture-stroke",
+      "unicode": "e7a1",
+      "unicode_decimal": 59297
+    },
+    {
+      "icon_id": "34883821",
+      "name": "pallet-stroke",
+      "font_class": "pallet-stroke",
+      "unicode": "e7a4",
+      "unicode_decimal": 59300
+    },
+    {
+      "icon_id": "34883823",
+      "name": "plus-circle-stroke ",
+      "font_class": "plus-circle-stroke",
+      "unicode": "e7a6",
+      "unicode_decimal": 59302
+    },
+    {
+      "icon_id": "34883825",
+      "name": "plus-stroke",
+      "font_class": "plus-stroke",
+      "unicode": "e7a8",
+      "unicode_decimal": 59304
+    },
+    {
+      "icon_id": "34883833",
+      "name": "rectangle-stroke",
+      "font_class": "rectangle-stroke",
+      "unicode": "e7b0",
+      "unicode_decimal": 59312
+    },
+    {
+      "icon_id": "34883835",
+      "name": "question-circle-stroke",
+      "font_class": "question-circle-stroke",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    },
+    {
+      "icon_id": "34883836",
+      "name": "rdashboard-stroke",
+      "font_class": "rdashboard-stroke",
+      "unicode": "e7b3",
+      "unicode_decimal": 59315
+    },
+    {
+      "icon_id": "34883842",
+      "name": "select-all-stoke (1)",
+      "font_class": "a-select-all-stoke1",
+      "unicode": "e7b9",
+      "unicode_decimal": 59321
+    },
+    {
+      "icon_id": "34883848",
+      "name": "share-link-Stroke (1)",
+      "font_class": "a-share-link-Stroke1",
+      "unicode": "e7bf",
+      "unicode_decimal": 59327
+    },
+    {
+      "icon_id": "34883849",
+      "name": "select-stoke (1)",
+      "font_class": "a-select-stoke1",
+      "unicode": "e7c0",
+      "unicode_decimal": 59328
+    },
+    {
+      "icon_id": "34883851",
+      "name": "setting-fill",
+      "font_class": "setting-fill",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "34883852",
+      "name": "sync (1)",
+      "font_class": "a-sync1",
+      "unicode": "e7c3",
+      "unicode_decimal": 59331
+    },
+    {
+      "icon_id": "34883857",
+      "name": "split-stoke",
+      "font_class": "split-stoke",
+      "unicode": "e7c8",
+      "unicode_decimal": 59336
+    },
+    {
+      "icon_id": "34883858",
+      "name": "search-stroke",
+      "font_class": "search-stroke",
+      "unicode": "e7c9",
+      "unicode_decimal": 59337
+    },
+    {
+      "icon_id": "34883709",
+      "name": "folder-stroke",
+      "font_class": "folder-stroke",
+      "unicode": "e76b",
+      "unicode_decimal": 59243
+    },
+    {
+      "icon_id": "34883710",
+      "name": "formula-stroke (1)",
+      "font_class": "a-formula-stroke1",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "34883711",
+      "name": "fullscreen-stroke",
+      "font_class": "fullscreen-stroke",
+      "unicode": "e76d",
+      "unicode_decimal": 59245
+    },
+    {
+      "icon_id": "34883712",
+      "name": "form-link-stroke",
+      "font_class": "form-link-stroke",
+      "unicode": "e76e",
+      "unicode_decimal": 59246
+    },
+    {
+      "icon_id": "34883714",
+      "name": "fullscreen-exit-stroke",
+      "font_class": "fullscreen-exit-stroke",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    },
+    {
+      "icon_id": "34883715",
+      "name": "Home-full-screen-fill",
+      "font_class": "Home-full-screen-fill",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "34883720",
+      "name": "greate-than-stroke",
+      "font_class": "greate-than-stroke",
+      "unicode": "e776",
+      "unicode_decimal": 59254
+    },
+    {
+      "icon_id": "34883728",
+      "name": "info-cirlce-stroke",
+      "font_class": "info-cirlce-stroke",
+      "unicode": "e77e",
+      "unicode_decimal": 59262
+    },
+    {
+      "icon_id": "34883732",
+      "name": "list-check-stroke",
+      "font_class": "list-check-stroke",
+      "unicode": "e782",
+      "unicode_decimal": 59266
+    },
+    {
+      "icon_id": "34883733",
+      "name": "link-storke",
+      "font_class": "link-storke",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    },
+    {
+      "icon_id": "34883734",
+      "name": "layout-stroke",
+      "font_class": "layout-stroke",
+      "unicode": "e784",
+      "unicode_decimal": 59268
+    },
+    {
+      "icon_id": "34883738",
+      "name": "lock-stroke",
+      "font_class": "lock-stroke",
+      "unicode": "e788",
+      "unicode_decimal": 59272
+    },
+    {
+      "icon_id": "34883745",
+      "name": "move-stroke",
+      "font_class": "move-stroke",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "34883746",
+      "name": "more-stroke",
+      "font_class": "more-stroke",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "34883747",
+      "name": "mobile-phone-stroke",
+      "font_class": "mobile-phone-stroke",
+      "unicode": "e791",
+      "unicode_decimal": 59281
+    },
+    {
+      "icon_id": "34883748",
+      "name": "minus-stroke",
+      "font_class": "minus-stroke",
+      "unicode": "e792",
+      "unicode_decimal": 59282
+    },
+    {
+      "icon_id": "34883749",
+      "name": "move-left-stroke",
+      "font_class": "move-left-stroke",
+      "unicode": "e793",
+      "unicode_decimal": 59283
+    },
+    {
+      "icon_id": "34883750",
+      "name": "multiplication-sign-stroke",
+      "font_class": "multiplication-sign-stroke",
+      "unicode": "e794",
+      "unicode_decimal": 59284
+    },
+    {
+      "icon_id": "34883751",
+      "name": "move-right-stroke",
+      "font_class": "move-right-stroke",
+      "unicode": "e795",
+      "unicode_decimal": 59285
+    },
+    {
+      "icon_id": "34883752",
+      "name": "merge-stoke",
+      "font_class": "merge-stoke",
+      "unicode": "e796",
+      "unicode_decimal": 59286
+    },
+    {
+      "icon_id": "34883753",
+      "name": "not-equa-to-stroke",
+      "font_class": "not-equa-to-stroke",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "34883755",
+      "name": "ool-sort-fill",
+      "font_class": "ool-sort-fill",
+      "unicode": "e799",
+      "unicode_decimal": 59289
+    },
+    {
+      "icon_id": "34883559",
+      "name": "close-stoke",
+      "font_class": "close-stoke",
+      "unicode": "e73c",
+      "unicode_decimal": 59196
+    },
+    {
+      "icon_id": "34883560",
+      "name": "choose-none-stroke",
+      "font_class": "choose-none-stroke",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "34883561",
+      "name": "copy-stroke",
+      "font_class": "copy-stroke",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "34883563",
+      "name": "create-stroke",
+      "font_class": "create-stroke",
+      "unicode": "e740",
+      "unicode_decimal": 59200
+    },
+    {
+      "icon_id": "34883565",
+      "name": "copy-fill",
+      "font_class": "copy-fill",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    },
+    {
+      "icon_id": "34883567",
+      "name": "cross-circle-fill",
+      "font_class": "cross-circle-fill",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "34883568",
+      "name": "cross-circle-stroke",
+      "font_class": "cross-circle-stroke",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "34883571",
+      "name": "delete-stroke",
+      "font_class": "delete-stroke",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "34883572",
+      "name": "download-stroke",
+      "font_class": "download-stroke",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    },
+    {
+      "icon_id": "34883575",
+      "name": "cross-stroke",
+      "font_class": "cross-stroke",
+      "unicode": "e74c",
+      "unicode_decimal": 59212
+    },
+    {
+      "icon_id": "34883576",
+      "name": "edit-stroke",
+      "font_class": "edit-stroke",
+      "unicode": "e74d",
+      "unicode_decimal": 59213
+    },
+    {
+      "icon_id": "34883580",
+      "name": "data-fill (1)",
+      "font_class": "a-data-fill1",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "34883581",
+      "name": "exclamation-circle-fill",
+      "font_class": "exclamation-circle-fill",
+      "unicode": "e752",
+      "unicode_decimal": 59218
+    },
+    {
+      "icon_id": "34883582",
+      "name": "eye-disabled-fill (1)",
+      "font_class": "a-eye-disabled-fill1",
+      "unicode": "e753",
+      "unicode_decimal": 59219
+    },
+    {
+      "icon_id": "34883583",
+      "name": "exclamation-circle-stroke",
+      "font_class": "exclamation-circle-stroke",
+      "unicode": "e754",
+      "unicode_decimal": 59220
+    },
+    {
+      "icon_id": "34883585",
+      "name": "eye-stroke",
+      "font_class": "eye-stroke",
+      "unicode": "e756",
+      "unicode_decimal": 59222
+    },
+    {
+      "icon_id": "34883587",
+      "name": "eye-disabled-stroke",
+      "font_class": "eye-disabled-stroke",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "34883588",
+      "name": "field-mail-stroke",
+      "font_class": "field-mail-stroke",
+      "unicode": "e759",
+      "unicode_decimal": 59225
+    },
+    {
+      "icon_id": "34883589",
+      "name": "field-picture-stroke",
+      "font_class": "field-picture-stroke",
+      "unicode": "e75a",
+      "unicode_decimal": 59226
+    },
+    {
+      "icon_id": "34883592",
+      "name": "field-input-stroke (1)",
+      "font_class": "a-field-input-stroke1",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    },
+    {
+      "icon_id": "34883596",
+      "name": "field-radio-stroke",
+      "font_class": "field-radio-stroke",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "34883599",
+      "name": "field-textarea-stroke",
+      "font_class": "field-textarea-stroke",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
+      "icon_id": "34883601",
+      "name": "folder-create-stroke",
+      "font_class": "folder-create-stroke",
+      "unicode": "e766",
+      "unicode_decimal": 59238
+    },
+    {
+      "icon_id": "34883602",
+      "name": "folder-fill",
+      "font_class": "folder-fill",
+      "unicode": "e767",
+      "unicode_decimal": 59239
+    },
+    {
+      "icon_id": "34883603",
+      "name": "field-time-stroke",
+      "font_class": "field-time-stroke",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    },
+    {
+      "icon_id": "34883604",
+      "name": "folder-open-stroke",
+      "font_class": "folder-open-stroke",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "34883605",
+      "name": "folder-add-stroke",
+      "font_class": "folder-add-stroke",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "34883444",
+      "name": "arrow-back-stroke",
+      "font_class": "arrow-back-stroke",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "34883447",
+      "name": "aggregate-function-stoke",
+      "font_class": "aggregate-function-stoke",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "34883450",
+      "name": "arrow-bottom-stroke",
+      "font_class": "arrow-bottom-stroke",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "34883451",
+      "name": "arrow-left-stroke",
+      "font_class": "arrow-left-stroke",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "34883453",
+      "name": "arrow-sort-left-stroke",
+      "font_class": "arrow-sort-left-stroke",
+      "unicode": "e714",
+      "unicode_decimal": 59156
+    },
+    {
+      "icon_id": "34883454",
+      "name": "amplify-stroke  (1)",
+      "font_class": "a-amplify-stroke1",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "34883455",
+      "name": "arrow-sort-right-stroke",
+      "font_class": "arrow-sort-right-stroke",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "34883456",
+      "name": "arrow-right-stroke",
+      "font_class": "arrow-right-stroke",
+      "unicode": "e717",
+      "unicode_decimal": 59159
+    },
+    {
+      "icon_id": "34883458",
+      "name": "arrows-shrink-stroke",
+      "font_class": "arrows-shrink-stroke",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "34883460",
+      "name": "arrow-sort-stroke",
+      "font_class": "arrow-sort-stroke",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "34883461",
+      "name": "associate-stroke",
+      "font_class": "associate-stroke",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "34883462",
+      "name": "arrow-top-stroke",
+      "font_class": "arrow-top-stroke",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "34883463",
+      "name": "arrows-spread-stroke",
+      "font_class": "arrows-spread-stroke",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "34883465",
+      "name": "bevel-backward-stroke",
+      "font_class": "bevel-backward-stroke",
+      "unicode": "e720",
+      "unicode_decimal": 59168
+    },
+    {
+      "icon_id": "34883475",
+      "name": "bevel-circle-right-stroke",
+      "font_class": "bevel-circle-right-stroke",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "34883479",
+      "name": "bevel-forward-stroke",
+      "font_class": "bevel-forward-stroke",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "34883481",
+      "name": "bevel-left-stroke",
+      "font_class": "bevel-left-stroke",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "34883482",
+      "name": "bevel-circle-left-stroke",
+      "font_class": "bevel-circle-left-stroke",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+@import '~@h3/theme-pc/core/index.less';
+@contentLoadingPrefix: shared-content-loading;
+.h3-report-loading {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.@{contentLoadingPrefix} {
+  position: relative;
+  display: block;
+  width: 32px;
+  height: 8px;
+  & &__item {
+    background-color: #107fff;
+    opacity: 0.4;
+    display: block;
+    width: 6px;
+    height: 6px;
+    border-radius: 100%;
+    animation: shared-loading-bounce1 3s  cubic-bezier(0.25, 0.1, 0.25, 1) infinite;
+    &:nth-child(1) {
+      position: absolute;
+      left: 2px;
+      top: 1px;
+    }
+    &:nth-child(2) {
+      position: absolute;
+      left: 13px;
+      top: 1px;
+      // animation: shared-loading-bounce2 1200ms 300ms cubic-bezier(0.25, 0.1, 0.25, 1) infinite;
+      animation-delay: 1s;
+    }
+    &:nth-child(3) {
+      position: absolute;
+      right: 2px;
+      top: 1px;
+      // animation: shared-loading-bounce3 1400ms 400ms cubic-bezier(0.25, 0.1, 0.25, 1) infinite;
+      animation-delay: 2s;
+    }
+  }
+}
+@keyframes shared-loading-bounce1 {
+  0% {
+    transform: scale(0.9);
+    opacity: 0.4;
+  }
+  25% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(0.9);
+    opacity: 0.4;
+  }
+  75% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0.9);
+    opacity: 0.4;
+  }
+}
+

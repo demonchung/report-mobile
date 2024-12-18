@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="121px" viewBox="0 0 121 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>拖动控件</title>
+    <defs>
+        <circle id="path-1" cx="60.5" cy="60.5" r="60.5"></circle>
+        <rect id="path-3" x="0" y="0" width="96.5909091" height="37.5" rx="4"></rect>
+        <filter x="-12.9%" y="-28.0%" width="125.9%" height="166.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.788235294   0 0 0 0 0.8   0 0 0 0 0.847058824  0 0 0 0.480031687 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M11.7131295,0.359227661 L8.07104317,3.99640772 C8.07104317,3.99640772 7.33756745,4.82992815 8.07104317,5.41086664 C8.80451888,5.99180512 9.08273381,6.21912887 9.08273381,6.21912887 L11.1061151,6.21912887 L11.1061151,11.0687023 L6.25,11.0687023 L6.25,9.25011226 L5.44064748,8.0377189 C5.44064748,8.0377189 4.85892536,7.20419847 4.02428058,8.0377189 L0.382194245,11.674899 C0.382194245,11.674899 -0.477742806,12.2305793 0.382194245,13.0893579 L4.22661871,16.9286035 C4.22661871,16.9286035 4.55946493,17.3327346 4.83363309,17.3327346 C5.1616232,17.3327346 5.44064748,16.9286035 5.44064748,16.9286035 L6.25,15.9182757 L6.25,13.8976201 L11.1061151,13.8976201 L11.1061151,18.7471935 L9.08273381,18.7471935 L8.07104317,19.5554558 C8.07104317,19.5554558 7.33756745,20.237427 8.07104317,20.9699147 C8.80451888,21.7024023 11.9154676,24.6070947 11.9154676,24.6070947 C11.9154676,24.6070947 12.4466052,25.4911316 13.3318345,24.6070947 L16.9739209,20.9699147 C16.9739209,20.9699147 17.8591502,20.4394926 16.9739209,19.5554558 C16.0886915,18.6714189 15.9622302,18.7471935 15.9622302,18.7471935 L13.9388489,18.7471935 L13.9388489,13.8976201 L18.794964,13.8976201 L18.794964,15.9182757 L19.6043165,16.9286035 C19.6043165,16.9286035 20.2366232,17.7116075 21.0206835,16.9286035 C21.8047437,16.1455995 24.6627698,13.0893579 24.6627698,13.0893579 C24.6627698,13.0893579 25.4215378,12.4326448 24.6627698,11.674899 C23.9040018,10.9171531 20.8183453,8.0377189 20.8183453,8.0377189 C20.8183453,8.0377189 20.1860387,7.45678042 19.6043165,8.0377189 C19.0225944,8.61865739 18.794964,9.0480467 18.794964,9.0480467 L18.794964,11.0687023 L13.9388489,11.0687023 L13.9388489,6.21912887 L15.9622302,6.21912887 L16.9739209,5.41086664 C16.9739209,5.41086664 17.7579811,4.77941176 16.9739209,3.99640772 C16.1898606,3.21340368 13.1294964,0.359227661 13.1294964,0.359227661 C13.1294964,0.359227661 12.522482,-0.449034576 11.7131295,0.359227661 Z" id="path-5"></path>
+        <filter x="-22.3%" y="-18.2%" width="144.4%" height="144.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.615541126   0 0 0 0 0.654266467   0 0 0 0 0.809167834  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="高级数据源" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.800000012">
+        <g id="数据流编辑页" transform="translate(-461.000000, -343.000000)">
+            <g id="拖动控件" transform="translate(461.000000, 343.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill-opacity="0.812151715" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-42.000000, 29.000000)">
+                        <rect id="Rectangle" fill-opacity="0.3" fill="#7795FF" x="0" y="0" width="88.6363636" height="37.5" rx="3"></rect>
+                        <g id="Group-5" stroke-width="1" fill="none" transform="translate(40.909091, 12.500000)">
+                            <g id="o">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <rect stroke="#FFFFFF" stroke-width="1" fill="#87A2FF" fill-rule="evenodd" x="-0.5" y="-0.5" width="97.5909091" height="38.5" rx="4"></rect>
+                            </g>
+                            <ellipse id="Oval" fill="#FFFFFF" opacity="0.900000036" cx="18.4968343" cy="18.75" rx="4.40400817" ry="4.46428571"></ellipse>
+                            <rect id="Rectangle" fill="#FFFFFF" x="29.9472555" y="14.2857143" width="52.848098" height="8.92857143" rx="2.5"></rect>
+                        </g>
+                        <g id="十字箭头-copy" stroke-width="1" fill="none" transform="translate(123.000000, 35.000000)">
+                            <g id="Shape" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use stroke="#FFFFFF" stroke-width="1" fill="#4A5D9B" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
