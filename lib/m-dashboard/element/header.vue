@@ -1,7 +1,7 @@
 <template>
   <div :class="`${comPrefixCls}__item-header`" :style="{ color: titleColor }">
     <slot name="title">
-      <span :style="getStyles" :class="`${comPrefixCls}__item-title`">{{ element.title }}1</span>
+      <span :style="getStyles" :class="`${comPrefixCls}__item-title`">{{ layerList[layerList.length-1] }}</span>
     </slot>
     <slot name="extra">
       <div :class="[`${comPrefixCls}__btns`, isDark? 'dark' : '']">
@@ -65,6 +65,7 @@ export default class DashboardElementHeader extends Vue {
   comPrefixCls!: string;
   @Prop() global!: H3.Report.Global;
   @Prop({ default: false }) isDark!: boolean;
+  @Prop({ default: () => [] }) chartLayers!: Array<H3.Report.chartLayer>;
   @ReportPro.Mutation(ReportMutation.RESIZECHARTVIEW) resizeChartView!: Function;
   @ReportPro.Action(ReportAction.SETCHARTLINKAGE) setChartLinkage!: Function; // 设置图表联动
 
@@ -91,7 +92,16 @@ export default class DashboardElementHeader extends Vue {
       this.element.type !== (ElementType.GAUGE as any) && this.element.type !== (ElementType.WEB as any)
     );
   }
+  //图层列表
+  get layerList() {
+    return this.getShowList(this.chartLayers, this.element.layerActiveIndex||0,  this.element.data.switchLayers);
+  }
 
+   getShowList(arr, index, isFree) {
+    if (!arr || !arr.length) {return [];} //如果只有一项，说明没有下钻功能
+    const l = isFree ? arr.length : index + 1;
+    return arr.slice(0, l);
+  }
   /**
    * 取消联动
    */

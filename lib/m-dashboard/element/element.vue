@@ -4,6 +4,7 @@
       v-if="element && element.type !== 'longText' && element.type !== 'image' && element.type !== 'tab' && isShow"
       :full-screen-status="fullScreenStatus"
       :element="element"
+      :chartLayers="chartLayers"
       :global="global"
       :comPrefixCls="comPrefixCls"
       @full-screen="fullScreen"

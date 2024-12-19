@@ -173,6 +173,7 @@ export default class DashboardMobileFullScreen extends Vue {
 
   created() {
     this.copyCharts = JSON.parse(JSON.stringify(this.elements));
+    console.log(this.copyCharts)
   }
 }
 </script>
