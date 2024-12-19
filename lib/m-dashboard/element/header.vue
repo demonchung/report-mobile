@@ -1,7 +1,7 @@
 <template>
   <div :class="`${comPrefixCls}__item-header`" :style="{ color: titleColor }">
     <slot name="title">
-      <span :style="getStyles" :class="`${comPrefixCls}__item-title`">{{ layerList[layerList.length-1] }}</span>
+      <span :style="getStyles" :class="`${comPrefixCls}__item-title`">{{ layerTitle }}</span>
     </slot>
     <slot name="extra">
       <div :class="[`${comPrefixCls}__btns`, isDark? 'dark' : '']">
@@ -93,8 +93,13 @@ export default class DashboardElementHeader extends Vue {
     );
   }
   //图层列表
-  get layerList() {
-    return this.getShowList(this.chartLayers, this.element.layerActiveIndex||0,  this.element.data.switchLayers);
+  get layerTitle() {
+    const list =  this.getShowList(this.chartLayers, this.element.layerActiveIndex||0,  this.element.data.switchLayers);
+    console.log(list);
+    if(list.length > 0) {
+      return list[list.length - 1].layerTitle||list[list.length - 1].title;
+    }
+    return this.element.title;
   }
 
    getShowList(arr, index, isFree) {
